@@ -5,12 +5,4 @@ solutions. I'm not coding anything new, just fixing the existing code base.
 
 The challenges spanned a variety of programming languages 
 from C to Python to Javascript to Ruby and more, some of which I was familiar 
-with, others of which I was not. The specific list of projects contained follows:
-
-* [0x00. Fix my code](./0x00-challenge)
-
-## Twitter
-* **[Bensouda El Mehdi](https://twitter.com/el_bensouda)**
-
-## GitHub
-* **[Bensouda El Mehdi](https://github.com/ElMehdi02)**
+with, others of which I was not.
