@@ -8,9 +8,3 @@ from C to Python to Javascript to Ruby and more, some of which I was familiar
 with, others of which I was not. The specific list of projects contained follows:
 
 * [0x00. Fix my code](./0x00-challenge)
-
-## Twitter
-* **[Bensouda El Mehdi](https://twitter.com/el_bensouda)**
-
-## LinkedIn
-* **[Bensouda El Mehdi](https://www.linkedin.com/in/el-mehdi-bensouda-b754481b1/)**
